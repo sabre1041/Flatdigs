@@ -1,0 +1,7 @@
+Flatdigs Grails Project
+
+Notes:
+
+For Maven to successfully build with the Grails Maven plugin, the following must be configured:
+
+set MAVEN_OPTS=-Xmx768M -XX:PermSize=256m
